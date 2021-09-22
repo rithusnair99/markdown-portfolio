@@ -1,2 +1,4 @@
 -hai
 -hello
+-wow
+-amazing
