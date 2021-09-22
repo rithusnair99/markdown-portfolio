@@ -1,4 +1,4 @@
--hai
--hello
--wow
--amazing
+- hai
+- hello
+- wow
+- amazing
